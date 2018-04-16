@@ -1,0 +1,5 @@
+\i C:/Users/1/codeclan/week_3/day_5/weekend_homework_week_3/db/cinema.sql
+customer1.name = 'whatever'
+customer1.update
+customer1.films
+film1.customers
